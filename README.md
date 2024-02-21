@@ -6,4 +6,4 @@
 -  🤔 I’m looking for help with coding in DSA
 -  📫 How to reach me: madhumitha.rc26@gmail.com
 -  😄 Pronouns: she/her
--  ⚡ My Moto: I don't stop when I'm tired, I stop when I done!
+-  ⚡ My Moto: I don't stop when I'm tired, I stop when I'm done!
