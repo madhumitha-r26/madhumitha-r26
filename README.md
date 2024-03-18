@@ -21,5 +21,5 @@
 ### Other Profiles
 ![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/ac454376-731b-4a21-af4f-762fb958ab91)
 ![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/73bae90e-556c-4b38-8b2b-7608647658af)
-![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/27eb0ec4-7c36-4fd2-8ffc-811a64d0ae42)
+![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/7820a431-611c-4c11-a3f1-ad4e6da7132e)
 ![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/718b51de-b1ac-46fe-83bf-f0eb9efcc755)
