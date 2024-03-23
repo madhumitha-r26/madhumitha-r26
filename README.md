@@ -22,6 +22,7 @@ Hi 👋, I'm Madhumitha
 </p>
 
 **Languages and Tools:**
+<p>
 ![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/94322d9b-979c-4239-905f-b4f1cfe6cbbd)
 ![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/eab3c44c-95cd-428a-852e-5a27503f8e4f)
 ![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/be9a51dd-b4f9-461a-bc1e-16eb783b39a2)
@@ -31,8 +32,5 @@ Hi 👋, I'm Madhumitha
 ![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/29f279f8-58cc-4ebf-a4e1-06e7f896a958)
 ![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/b5edab2a-10f0-4b0e-a9ea-4c93bb902f06)
 ![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/7b6fad42-4aee-44f1-9815-a38d4461b2eb)
-
-
-
 ![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/6d92cabe-93fd-4f95-a0fb-13ac5d11c2aa)
-
+</p>
