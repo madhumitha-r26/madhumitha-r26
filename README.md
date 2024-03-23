@@ -41,5 +41,5 @@ Hi 👋, I'm Madhumitha
 
 **Coding Achievements**
 
-Coding Ninja
+<p>Coding Ninja</p> <br>
 ![coding ninja](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/5c57171b-0666-460f-8c81-4d0ae6ecf93e)
