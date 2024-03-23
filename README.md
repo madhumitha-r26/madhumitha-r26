@@ -1,7 +1,7 @@
 ### Hi there 👋
 
--  🔭 I’m currently working on a web development project
--  🌱 I’m currently learning Python
+-  🔭 I’m currently working on a major project
+-  🌱 I’m currently learning Fullstack web development
 -  😉 I’m a passionate UI/UX Designer
 -  🤔 I’m looking for help with coding in DSA
 -  📫 How to reach me: madhumitha.rc26@gmail.com
