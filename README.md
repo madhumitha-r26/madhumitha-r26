@@ -37,3 +37,9 @@ Hi 👋, I'm Madhumitha
 <img src="https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/3bbfcd17-e164-4c72-b952-783558d30c3a" height="35" width="40"/>
 <img src="https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/bed1e1ee-15e1-4b2f-92a7-00c45d15836f" height="35" width="40"/>
 </p>
+
+
+**Coding Achievements**
+
+Coding Ninja
+![coding ninja](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/5c57171b-0666-460f-8c81-4d0ae6ecf93e)
