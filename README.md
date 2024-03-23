@@ -1,34 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Madhumitha</h1>
+<h3 align="center">A passionate UI/UX Designer from India</h3>
 
--  🔭 I’m currently working on a major project
--  🌱 I’m currently learning Fullstack web development
--  😉 I’m a passionate UI/UX Designer
--  💬 Ask me about Python
--  🤔 I’m looking for help with coding in DSA
--  📫 How to reach me: madhumitha.rc26@gmail.com
--  😄 Pronouns: she/her
--  ⚡ My Moto: I don't stop when I'm tired, I stop when I'm done!
+- 🔭 I’m currently working on **Major Project**
 
-### Tools and Languages I know
-![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/9cd1cd79-20b4-4ce5-80f0-bf11fea62c1c)
-![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/982fed7e-5397-454b-b2fe-203728077d93)
-![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/cb581218-c66d-4dc0-a95c-fa8125cf6d0a)
-![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/0c5e2b86-b5e7-4da3-b58f-3922e95521cb)
-![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/b92c624a-47f1-46f3-9adc-08d24c03fcdc)
-![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/1f5c3942-7421-4c99-b974-166db83b9a28)
-![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/45c2f267-4dfb-4537-a99e-adf2276d209a)
-![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/67438056-227d-46f7-b746-26ebe9efad4d)
+- 🌱 I’m currently learning **Full-stack Web Development**
 
+- 🤝 I’m looking for help with **coding in DSA**
 
-### Connect me
-![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/8593f32b-7c6b-4bbd-ba88-d3f50fdfcc8b)
-![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/ac454376-731b-4a21-af4f-762fb958ab91)
-![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/3024c575-d505-414b-8bb3-7adc4959ddd7)
-![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/2546ec46-af6e-4fa7-984f-a497c44377f9)
+- 💬 Ask me about **Python**
 
+- 📫 How to reach me **madhumitha.rc26@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/madhumitha-ravichandran26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/madhumitha-ravichandran26" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/madhumitha263-ravichandran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhumitha263-ravichandran/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/madhumitha.ravichandran.315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/madhumitha.ravichandran.315" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/flame._.of._.fire/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/flame._.of._.fire/" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/madhumitha42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/madhumitha42" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/madhumitha_263" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/madhumitha_263" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/madhumitha_263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/madhumitha_263/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/geeksmad/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksmad/profile" height="30" width="40" /></a>
+</p>
 
-### Coding Profiles
-![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/73bae90e-556c-4b38-8b2b-7608647658af)
-![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/f59353d3-a085-47f3-a6ea-0252635cd2b6)
-![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/47500d9d-0171-4234-99ff-896cc28c92bb)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
