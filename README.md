@@ -22,6 +22,9 @@
 ### Connect me
 ![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/8593f32b-7c6b-4bbd-ba88-d3f50fdfcc8b)
 ![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/ac454376-731b-4a21-af4f-762fb958ab91)
+![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/3024c575-d505-414b-8bb3-7adc4959ddd7)
+![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/2546ec46-af6e-4fa7-984f-a497c44377f9)
+
 
 
 ### Coding Profiles
