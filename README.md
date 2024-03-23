@@ -28,4 +28,3 @@
 ![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/73bae90e-556c-4b38-8b2b-7608647658af)
 ![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/f59353d3-a085-47f3-a6ea-0252635cd2b6)
 ![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/47500d9d-0171-4234-99ff-896cc28c92bb)
-![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/718b51de-b1ac-46fe-83bf-f0eb9efcc755)
