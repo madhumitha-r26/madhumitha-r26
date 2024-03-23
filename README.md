@@ -21,7 +21,7 @@ Hi 👋, I'm Madhumitha
 <a href="https://auth.geeksforgeeks.org/user/geeksmad/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksmad/profile" height="30" width="40" /></a>
 </p>
 
-**Languages and Tools:**
+<h3 align="left">Languages and Tools:</h3>
 
 ![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/94322d9b-979c-4239-905f-b4f1cfe6cbbd)
 ![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/eab3c44c-95cd-428a-852e-5a27503f8e4f)
@@ -33,3 +33,5 @@ Hi 👋, I'm Madhumitha
 ![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/b5edab2a-10f0-4b0e-a9ea-4c93bb902f06)
 ![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/7b6fad42-4aee-44f1-9815-a38d4461b2eb)
 ![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/6d92cabe-93fd-4f95-a0fb-13ac5d11c2aa)
+![image](https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/07ed7fc4-981e-4a1f-ae33-381e964926c9)
+
