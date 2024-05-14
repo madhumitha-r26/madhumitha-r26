@@ -6,7 +6,7 @@ Hi 👋, I'm Madhumitha
 - 🌱 I’m currently learning **Full-stack Web Development**
 - 🤝 I’m looking for help with **Coding in DSA**
 - 💬 Ask me about **Python**
-- 📫 How to reach me **madhumitha.rc26@gmail.com**
+- 📫 How to reach me **madhumitharavichandran26@gmail.com**
 - ⚡ My Moto: I don't stop when I am tired, I stop when I'm done!
 
 <h3 align="left">Connect with me:</h3>
