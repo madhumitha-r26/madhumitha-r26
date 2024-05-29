@@ -1,7 +1,7 @@
 Hi 👋, I'm Madhumitha
 
 
-- 🔭 I’m currently working on **Major Project**
+- 🔭 I’m currently working on **Fullstack Web Development Projects**
 - 😉 I'm a passionate **UI/UX Designer**
 - 🌱 I’m currently learning **Full-stack Web Development**
 - 🤝 I’m looking for help with **Coding in DSA**
