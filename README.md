@@ -3,7 +3,7 @@ Hi 👋, I'm Madhumitha
 
 - 🔭 I’m currently working on **Fullstack Web Development Projects**
 - 😉 I'm a passionate **UI/UX Designer**
-- 🌱 I’m currently learning **Full-stack Web Development**
+- 🌱 I’m currently learning **Web Development**
 - 🤝 I’m looking for help with **Coding in DSA**
 - 💬 Ask me about **Python**
 - 📫 How to reach me **madhumitharavichandran26@gmail.com**
