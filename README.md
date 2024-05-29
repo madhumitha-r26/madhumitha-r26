@@ -11,7 +11,6 @@ Hi 👋, I'm Madhumitha
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/madhumitha-ravichandran26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/madhumitha-ravichandran26" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/madhumitha263-ravichandran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhumitha263-ravichandran/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/madhumitha.ravichandran.315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/madhumitha.ravichandran.315" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/flame._.of._.fire/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/flame._.of._.fire/" height="30" width="40" /></a>
