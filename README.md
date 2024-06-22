@@ -8,6 +8,7 @@ Hi 👋, I'm Madhumitha
 - 💬 Ask me about **Python**
 - 📫 How to reach me **madhumitharavichandran26@gmail.com**
 - ⚡ My Moto: I don't stop when I am tired, I stop when I'm done!
+- ❓ To know more about me visit my Personal Portfolio here **https://madhumitha26.wixsite.com/portfolio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
