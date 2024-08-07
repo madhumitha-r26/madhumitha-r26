@@ -7,7 +7,6 @@ Hi 👋, I'm Madhumitha
 - 🤝 I’m looking for help with **Coding in DSA**
 - 💬 Ask me about **Python**
 - 📫 How to reach me **madhumitharavichandran26@gmail.com**
-- ❓ To know more about me visit my Personal Portfolio here **https://madhumitha26.wixsite.com/portfolio**
 - ⚡ My Moto: I don't stop when I am tired, I stop when I'm done!
 
 <h3 align="left">Connect with me:</h3>
