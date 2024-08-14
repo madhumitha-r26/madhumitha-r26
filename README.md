@@ -47,5 +47,6 @@
 
 **Coding Achievements**
 
+<p>Coding Ninjas</p>
 <img src="https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/5c57171b-0666-460f-8c81-4d0ae6ecf93e" alt="coding ninja">
 
