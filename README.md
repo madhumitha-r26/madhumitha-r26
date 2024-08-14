@@ -44,7 +44,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhumitha-r26&" alt="madhumitha-r26" /></p>
 
-<h5 align="center">Coding Achievements</h5>
+<!--<h5 align="center">Coding Achievements</h5>
 <p>Coding Ninjas</p>
-<img src="https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/5c57171b-0666-460f-8c81-4d0ae6ecf93e" alt="coding ninja">
-
+<img src="https://github.com/madhumitha-ravichandran26/madhumitha-ravichandran26/assets/98893549/5c57171b-0666-460f-8c81-4d0ae6ecf93e" alt="coding ninja">-->
