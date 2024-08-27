@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madhumitha Ravichandran</h1>
-<h3 align="center">A full-stack developer from India</h3>
+![github-header-image](https://github.com/user-attachments/assets/86000f1f-af79-4453-ad8e-45d19c9cc41d)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhumitha-r26&label=Profile%20views&color=0e75b6&style=flat" alt="madhumitha-r26" /> </p>
 
