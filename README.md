@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **madhumitharavichandran26@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1K5DLWjX_3EvHjY4AfN3q9wj8_sHyZM_o/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAFHtoCMF2A/WEKy46zMpX4l5lKyTqbUeg/view?utm_content=DAFHtoCMF2A&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 - ⚡ My Moto **I don't stop when I am tired, I stop when I'm done!**
 
