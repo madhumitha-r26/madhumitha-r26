@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Coding in DSA**
 
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://madhumitha26.wixsite.com/portfolio/projects)
+- 👨‍💻 All of my projects are available at [DevPost]([https://madhumitha26.wixsite.com/portfolio/projects](https://devpost.com/madhumitha-r26?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav))
 
 - 💬 Ask me about **Python**
 
