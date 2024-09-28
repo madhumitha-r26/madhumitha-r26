@@ -8,17 +8,17 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 😉 I’m a passionate **UI/UX Designer**
+- ✨ I’m a passionate **UI/UX Designer**
 
 - 🤝 I’m looking for help with **Coding in DSA**
 
-- 👨‍💻 All of my projects are available at [DevPost]([https://madhumitha26.wixsite.com/portfolio/projects](https://devpost.com/madhumitha-r26?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav))
+- 👨‍💻 All of my projects are available at [https://devpost.com/madhumitha-r26?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav](https://devpost.com/madhumitha-r26?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **madhumitharavichandran26@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAFHtoCMF2A/WEKy46zMpX4l5lKyTqbUeg/view?utm_content=DAFHtoCMF2A&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my experiences [https://www.canva.com/design/DAFHtoCMF2A/WEKy46zMpX4l5lKyTqbUeg/view?utm_content=DAFHtoCMF2A&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAFHtoCMF2A/WEKy46zMpX4l5lKyTqbUeg/view?utm_content=DAFHtoCMF2A&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 - 🔥 My Moto **I don't stop when I am tired, I stop when I'm done!**
 
@@ -43,6 +43,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhumitha-r26&show_icons=true&locale=en" alt="madhumitha-r26" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhumitha-r26&" alt="madhumitha-r26" /></p>
+
 
 
 <!--<h5 align="center">Coding Achievements</h5>
