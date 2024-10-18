@@ -6,8 +6,8 @@
 🌱 I’m currently learning MERN Stack<br>
 💬 Ask me about Python<br>
 📫 How to reach me madhumitharavichandran26@gmail.com<br>
-👨‍💻 All of my projects are available at [[Devpost](https://devpost.com/madhumitha-r26?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)]<br>
-📄 Know about my experiences at my [[Resume](https://www.canva.com/design/DAFHtoCMF2A/WEKy46zMpX4l5lKyTqbUeg/view?utm_content=DAFHtoCMF2A&utm_campaign=designshare&utm_medium=link&utm_source=editor]) <br>
+👨‍💻 All of my projects are available at [Devpost](https://devpost.com/madhumitha-r26?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)<br>
+📄 Know about my experiences at my [Resume](https://www.canva.com/design/DAFHtoCMF2A/WEKy46zMpX4l5lKyTqbUeg/view?utm_content=DAFHtoCMF2A&utm_campaign=designshare&utm_medium=link&utm_source=editor]) <br>
 🔥 My Moto I don't stop when I am tired, I stop when I'm done!
 
 
