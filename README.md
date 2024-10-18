@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhumitha-r26&label=Profile%20views&color=0e75b6&style=flat" alt="madhumitha-r26" /> </p>
 
+![](https://github-profile-trophy.vercel.app/?username=madhumitha-r26&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
 # 💫 About Me:
 - 🔭 I’m currently working on **Fullstack Web Development Projects**
 
