@@ -43,7 +43,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=madhumitha-r26&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=madhumitha-r26&theme=tokyonight&hide_border=false)
-<center> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha-r26&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) </center>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha-r26&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 
 
