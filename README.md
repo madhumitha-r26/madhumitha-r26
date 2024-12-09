@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **MERN Stack**
 - ✨ I’m a passionate **UI/UX Designer**
 - 🤝 I’m looking for help with **Coding in DSA**
-- 👨‍💻 All of my projects are available at [PORTFOLIO](https://madhumitha26portfolio.netlify.app/projects)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://madhumitha26portfolio.netlify.app)
 - 💬 Ask me about **Python**
 - 📫 How to reach me **madhumitharavichandran26@gmail.com**
 - 📄 To know more about me [VIEW MY RESUME](https://drive.google.com/file/d/1CPSS6H9YXD0sRhTUmmj4nD_mLi9FweUf/view?usp=drive_link)
