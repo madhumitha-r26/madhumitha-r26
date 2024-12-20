@@ -10,10 +10,10 @@
 - 🌱 I’m currently learning **MERN Stack**
 - ✨ I’m a passionate **UI/UX Designer**
 - 🤝 I’m looking for help with **Coding in DSA**
-- 👨‍💻 All of my projects are available at [PORTFOLIO](https://madhumitha26portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://madhumitha26portfolio.netlify.app) and [DEVPOST](https://devpost.com/madhumitha-r26?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 - 💬 Ask me about **Python**
 - 📫 How to reach me **madhumitharavichandran26@gmail.com**
-- 📄 To know more about me [VIEW MY RESUME](https://drive.google.com/file/d/1CPSS6H9YXD0sRhTUmmj4nD_mLi9FweUf/view?usp=drive_link)
+- 📄 To know more about me [VIEW MY RESUME](https://drive.google.com/file/d/1OE70BAxccBhtKhLGuwRr5y8cWZjj_W4F/view?usp=sharing)
 - 🔥 My Moto **I don't stop when I am tired, I stop when I'm done!**
 
 
@@ -28,6 +28,7 @@
 <a href="https://www.hackerrank.com/madhumitha_263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="madhumitha_263" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/madhumitha_263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madhumitha_263" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/geeksmad3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksmad3" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@madhumitha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@madhumitha_" height="30" width="40" /></a>
 </p>
 
 💻 **Tech Stack** <br>
