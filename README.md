@@ -9,8 +9,8 @@
 - 🔭 I’m currently working on **Fullstack Web Development Projects**
 - 🌱 I’m currently learning **MERN Stack**
 - ✨ I’m a passionate **UI/UX Designer**
-- 🤝 I’m looking for help with **Coding in DSA**
-- 👨‍💻 All of my projects are available at [PORTFOLIO](https://madhumitha26portfolio.netlify.app) and [DEVPOST](https://devpost.com/madhumitha-r26?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+- 🤝🏽 I’m looking for help with **Coding in DSA**
+- 👩🏽‍💻 All of my projects are available at [PORTFOLIO](https://madhumitha26portfolio.netlify.app) and [DEVPOST](https://devpost.com/madhumitha-r26?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 - 💬 Ask me about **Python**
 - 📫 How to reach me **madhumitharavichandran26@gmail.com**
 - 📄 To know more about me [VIEW MY RESUME](https://drive.google.com/file/d/1OE70BAxccBhtKhLGuwRr5y8cWZjj_W4F/view?usp=sharing)
