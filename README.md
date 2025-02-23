@@ -13,7 +13,7 @@
 - 👩🏽‍💻 All of my projects are available at [PORTFOLIO WEBSITE](https://madhumitha26portfolio.netlify.app/projects) 
 - 💬 Ask me about **Python**
 - 📫 How to reach me **madhumitharavichandran26@gmail.com**
-- 📄 To know more about me [VIEW MY RESUME](https://drive.google.com/file/d/1OE70BAxccBhtKhLGuwRr5y8cWZjj_W4F/view?usp=sharing)
+- 📄 To know more about me [VIEW MY RESUME](https://madhumitha26portfolio.netlify.app/resume/MADHUMITHA_RESUME.pdf)
 - 🔥 My Moto **I don't stop when I am tired, I stop when I'm done!**
 
 
