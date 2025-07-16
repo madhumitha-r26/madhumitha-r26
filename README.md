@@ -6,8 +6,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=madhumitha-r26&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 💫 **About Me**
-- 🔭 I’m currently working as **Junior ML Engineer**
-- 🌱 I’m currently learning **Fullstack Development**
+- 🔭 I’m currently working as a **Junior ML Engineer**
+- 🌱 I’m currently learning **Fullstack Development** and **AI/ML**
 - ✨ I’m a passionate **UI/UX Designer**
 - 🤝🏽 I’m looking for help with **Coding in DSA**
 - 👩🏽‍💻 All of my projects are available at [PORTFOLIO WEBSITE](https://madhumitha26portfolio.netlify.app/projects) 
