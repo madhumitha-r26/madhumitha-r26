@@ -19,7 +19,7 @@
 
 
 🌐 **Socials** 
-<p align="left">
+<p align="left" style="display:flex">
 <a href="https://codepen.io/madhumitha-ravichandran26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="madhumitha-ravichandran26" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/madhumitha263-ravichandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhumitha263-ravichandran" height="30" width="40" /></a>
 <a href="https://kaggle.com/madhuzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="madhuzzz" height="30" width="40" /></a>
