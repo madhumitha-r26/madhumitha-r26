@@ -20,7 +20,7 @@
 
 🌐 **Socials** 
 
-<p align="left">
+<div style="flex">
 <a href="https://codepen.io/madhumitha-ravichandran26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="madhumitha-ravichandran26" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/madhumitha263-ravichandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhumitha263-ravichandran" height="30" width="40" /></a>
 <a href="https://www.behance.net/madhumitha42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="madhumitha42" height="30" width="40" /></a>
@@ -29,7 +29,7 @@
 <a href="https://www.leetcode.com/madhumitha_263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madhumitha_263" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/geeksmad3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksmad3" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@madhumitha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@madhumitha_" height="30" width="40" /></a>
-</p>
+</div>
 
 💻 **Tech Stack** <br>
 
