@@ -19,17 +19,19 @@
 
 
 🌐 **Socials** 
-
-<div style="flex">
+<p align="left">
 <a href="https://codepen.io/madhumitha-ravichandran26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="madhumitha-ravichandran26" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/madhumitha263-ravichandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhumitha263-ravichandran" height="30" width="40" /></a>
+<a href="https://kaggle.com/madhuzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="madhuzzz" height="30" width="40" /></a>
+<a href="https://instagram.com/my_crazy_artzone_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="my_crazy_artzone_" height="30" width="40" /></a>
 <a href="https://www.behance.net/madhumitha42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="madhumitha42" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/madhumitha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="madhumitha_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/madhumitha_263" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="madhumitha_263" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/madhumitha_263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="madhumitha_263" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/madhumitha_263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madhumitha_263" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/geeksmad3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksmad3" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@madhumitha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@madhumitha_" height="30" width="40" /></a>
-</div>
+<a href="https://auth.geeksforgeeks.org/user/user/geeksmad3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/geeksmad3" height="30" width="40" /></a>
+</p>
+
 
 💻 **Tech Stack** <br>
 
