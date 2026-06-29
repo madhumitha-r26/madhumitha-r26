@@ -5,7 +5,7 @@
 
 
 💫 **About Me**
-- 🔭 I’m currently working as a **Junior ML Engineer**
+- 🔭 I’m currently working as a **Junior Machine Learning Engineer**
 - 🌱 I’m currently learning **Fullstack Development** and **AI/ML**
 - ✨ I’m a passionate **UI/UX Designer**
 - 🤝🏽 I’m looking for help with **Coding in DSA**
