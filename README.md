@@ -1,6 +1,4 @@
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/dcba338f-f612-4417-ae82-8dec62c8d6ff" />
-
-
+<img width="2125" height="575" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/24863b57-ec91-4639-b3f2-0def15ff3d62" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhumitha-r26&label=Profile%20views&color=0e75b6&style=flat" alt="madhumitha-r26" /> </p>
 
