@@ -1,12 +1,13 @@
-![github-header-image](https://github.com/user-attachments/assets/86000f1f-af79-4453-ad8e-45d19c9cc41d)
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/dcba338f-f612-4417-ae82-8dec62c8d6ff" />
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhumitha-r26&label=Profile%20views&color=0e75b6&style=flat" alt="madhumitha-r26" /> </p>
 
 
 💫 **About Me**
-- 🔭 I’m currently working as a **Junior Machine Learning Engineer**
-- 🌱 I’m currently learning **Fullstack Development** and **AI/ML**
+- 🔭 I’m currently working in **AI/ML Projects**
+- 🌱 I’m currently learning **Fullstack Development** and **Generative AI**
 - ✨ I’m a passionate **UI/UX Designer**
 - 🤝🏽 I’m looking for help with **Coding in DSA**
 - 👩🏽‍💻 All of my projects are available at [PORTFOLIO WEBSITE](https://madhumitha26portfolio.netlify.app/projects) 
