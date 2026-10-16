@@ -40,7 +40,7 @@
 ### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=madhumitha-r26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=madhumitha-r26&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=madhumitha-r26&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=madhumitha-r26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
